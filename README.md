@@ -1,6 +1,6 @@
 # Projeto Monitoriamento de Umidade no Solo
 # Resumo
-O objetivo deste projeto é a implementação de um sensor de umidade para monitoriamento da condição de umidade do solo, em aplicações seja elas ornamentais seja elas agrícolas. A ideia inicial é propor um controle do monitoriamento através de um display LCD. Além disso, implementar uma comunicação entre arduino-celular. De modo a propiciar o acesso a informações e de alertas de notificações em tempo real.
+O objetivo deste projeto é a implementação de um sensor de umidade para monitoriamento da condição de umidade do solo, em aplicações seja elas ornamentais seja elas agrícolas. A ideia inicial é propor um controle de monitoriamento do solo, através do display LCD para exibição dos dados, utilizando essencialmente um sensor composto de duas partes: a sonda em contato direto com o solo e o módulo comparador. Além disso, implementar uma comunicação entre arduino-celular (por meio do Bluetooth). De modo a propiciar o acesso às informações e aos alertas de notificações em tempo real.
 # Lista de Materiais
   - Arduino Uno;
   - 1 sensor de Umidade de Solo;
@@ -17,6 +17,6 @@ O objetivo deste projeto é a implementação de um sensor de umidade para monit
   - 1 resistor 120 Ω;
   - 1 resistor 220 Ω.
 # Esquematização
-O esquema a seguir ilustra o modo de ligação do circuito principal do projeto. Os circuitos não apresentados (Display e Bluetooth) serão caracterizados posteriormente.
+A Figura a seguir ilustra o esquema de ligação do circuito principal do projeto. Os circuitos não apresentados (Display e Bluetooth) serão caracterizados posteriormente.
 
 ![imgem-fritizing](https://user-images.githubusercontent.com/53840650/62588248-79896580-b89b-11e9-8310-a0aeaff0b905.JPG)
