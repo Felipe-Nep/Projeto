@@ -17,6 +17,6 @@ O objetivo deste projeto é a implementação de um sensor de umidade para monit
   - 1 resistor 120 Ω;
   - 1 resistor 220 Ω.
 # Esquematização
-A Figura a seguir ilustra o esquema de ligação do circuito principal do projeto. Os circuitos não apresentados (Display e Bluetooth) serão caracterizados posteriormente.
+A Figura a seguir ilustra o esquema de ligação do circuito principal do projeto. As esquematização do circuito do Display e do Bluetooth serão caracterizadas posteriormente.
 
 ![imgem-fritizing](https://user-images.githubusercontent.com/53840650/62588248-79896580-b89b-11e9-8310-a0aeaff0b905.JPG)
