@@ -1,5 +1,6 @@
-/* Projeto monitoriamento de umidade no solo 
-Escrito por Gedeane Kenshima
+/* Projeto de monitoriamento de umidade no solo
+
+Escrito por Gedeane Kenshima.
 Data: 07/08/2017
 
 Adaptação: Felipe Nepomuceno da Silva
